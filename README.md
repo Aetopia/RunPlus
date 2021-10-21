@@ -1,5 +1,5 @@
 # Run+
-An Addon to the Windows Run Window.
+Adds additional functionality to Windows Run.
 ## Build
 
 1. Install PyInstaller. 
